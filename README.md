@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm subham</h1>
-<h3 align="center">A passionate frontend developer with a knack of backened from India</h3>
+<h3 align="center">A passionate web dev with a knack of game development from India</h3>
 
 <!-- GIF --> <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
